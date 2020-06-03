@@ -29,8 +29,7 @@ Chamamos um componente em outro arquivo como se fosse uma Tag fechada do HTML.
 ex: `<Header/>`.
 
 #### Fragments
-Nunca devemos colocar um componente de baixo de outro sem ter algo os separando como uma "<div>",
-ou podemos usar o conceito de fragments que adiciona essa separação mas sem que a "div" apareça
+Nunca devemos colocar um componente de baixo de outro sem ter algo os separando como uma "div", ou podemos usar o conceito de fragments que adiciona essa separação mas sem que a "div" apareça
 em nosso codigo. Para isso usamos: `<>  </>` para separar os componentes. 
 
 ### Propriedades
